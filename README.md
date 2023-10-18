@@ -17,7 +17,13 @@ Generated CSV Dataset: binance_data.csv
 
 I cleaned the dataset by handling missing values, removing outliers, and ensuring data quality.
 
+**Timeline:**
 
+Phase 1 Start Date: October 5, 2023
+
+Phase 1 Deadline: October 20, 2023
+
+Feel free to reach out if you have any questions or if you're interested in collaborating on this project!
 
 **Name : MUVVA BABU DHANUSH KUMAR
 
