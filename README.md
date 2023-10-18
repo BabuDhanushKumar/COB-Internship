@@ -25,8 +25,8 @@ Phase 1 Deadline: October 20, 2023
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on this project!
 
-Name : MUVVA BABU DHANUSH KUMAR
+**Name : MUVVA BABU DHANUSH KUMAR**
 
-Email : dhanushmuvva@gmail.com
+**Email : dhanushmuvva@gmail.com**
 
-LinkedIn Profile : www.linkedin.com/in/muvva-babu-dhanush-kumar-198b81261
+**LinkedIn Profile : www.linkedin.com/in/muvva-babu-dhanush-kumar-198b81261**
