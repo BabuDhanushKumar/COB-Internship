@@ -9,7 +9,7 @@ This repository contains the work completed during my data science internship. T
 
 In this phase, I utilized the Binance API to collect data and created a CSV dataset using Python and Pandas.
 
-API Endpoint: https://data.binance.com/api/v3/ticker/24hr
+API Endpoint: https://api.binance.com/api/v3/ticker/24hr
 
 Generated CSV Dataset: binance_data.csv
 
