@@ -17,9 +17,9 @@ In this phase, I utilized the Binance API to collect data and created a CSV data
 
 I cleaned the dataset by handling missing values, removing outliers, and ensuring data quality.
 
-**Dataset Used:** dataset - netflix1.csv Dataset
+**Dataset Used:** dataset - netflix1.csv
 
-**New Dataset Created :** cleaned_dataset_netflix1.csv Dataset
+**New Dataset Created :** cleaned_dataset_netflix1.csv
 
 **Phase 2: Data Analysis and Modeling**
 
@@ -27,15 +27,15 @@ I cleaned the dataset by handling missing values, removing outliers, and ensurin
 
 In this phase, I analyzed the dataset and created visualizations using Seaborn and Matplotlib.
 
-**Dataset Used:** dataset - netflix1.csv Dataset
+**Dataset Used:** dataset - netflix1.csv
 
 **Task 4: Simple Linear Regression Modeling**
 
 I trained a simple linear regression model on the given training dataset and made predictions using the test dataset.
 
-**Train Dataset:** train.csv Dataset
+**Train Dataset:** train.csv
 
-**Test Dataset:** test.csv Dataset
+**Test Dataset:** test.csv
 
 
 **Timeline:**
