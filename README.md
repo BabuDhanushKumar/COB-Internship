@@ -5,7 +5,7 @@ This repository contains the work completed during my data science internship. T
 
 **Phase 1: Data Collection and Cleaning**
 
-**Task 1: API Data Collection and CSV Creation**
+> **Task 1: API Data Collection and CSV Creation**
 
 In this phase, I utilized the Binance API to collect data and created a CSV dataset using Python and Pandas.
 
@@ -23,13 +23,13 @@ I cleaned the dataset by handling missing values, removing outliers, and ensurin
 
 **Phase 2: Data Analysis and Modeling**
 
-**Task 3: Data Analysis and Visualization**
+> **Task 3: Data Analysis and Visualization**
 
 In this phase, I analyzed the dataset and created visualizations using Seaborn and Matplotlib.
 
 **Dataset Used:** dataset - netflix1.csv
 
-**Task 4: Simple Linear Regression Modeling**
+> **Task 4: Simple Linear Regression Modeling**
 
 I trained a simple linear regression model on the given training dataset and made predictions using the test dataset.
 
