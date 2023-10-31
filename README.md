@@ -13,7 +13,7 @@ In this phase, I utilized the Binance API to collect data and created a CSV data
 
 **Generated CSV Dataset:** binance_data.csv
 
-**Task 2: Data Cleaning**
+> **Task 2: Data Cleaning**
 
 I cleaned the dataset by handling missing values, removing outliers, and ensuring data quality.
 
